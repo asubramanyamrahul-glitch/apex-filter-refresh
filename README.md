@@ -105,5 +105,4 @@ The solution enhances user experience by enabling **real-time data updates** bas
 
 ---
 
-[##  Please go through the Documentation for more technical information
-]([url](https://github.com/asubramanyamrahul-glitch/apex-filter-refresh/tree/main/Docs))
+[##Please Go Through the Document for Detailed Technical information](https://github.com/asubramanyamrahul-glitch/apex-filter-refresh/tree/main/Docs)
